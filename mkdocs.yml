@@ -40,6 +40,19 @@ nav:
   - PF Virtual assistant: services/PF Virtual assistant.md
   - 'Chrome Service Backend':
     - 'Frontend operator migrations': services/Chrome_service_backend/feo-migration-guide
+- Platform Architecture:
+  - Overview: platform/index.md
+  - Architecture Overview: platform/architecture-overview.md
+  - insights-chrome (Shell): platform/insights-chrome.md
+  - Frontend Operator: platform/frontend-operator.md
+  - Module Federation: platform/module-federation.md
+  - Navigation & Auth: platform/navigation-and-auth.md
+  - Theming: platform/theming.md
+  - Asset Pipeline: platform/asset-pipeline.md
+  - Widgets & Components: platform/widgets-and-components.md
+  - AI Systems: platform/ai-systems.md
+  - Chrome API: platform/chrome-api.md
+  - Environments & CI/CD: platform/environments-and-cicd.md
 - Frontend migrations:
   - Frontend components 3 => 4: frontend-migrations/frontend-components-3-to-4.md
   - Frontend components to PatternFly component groups: frontend-migrations/frontend-components-to-PF-component-groups.md
